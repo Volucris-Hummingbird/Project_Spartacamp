@@ -1,6 +1,7 @@
 import random
 
 RSP = ['가위', '바위', '보']
+# 가위바위보로 선택 제한함.
 
 
 def RSP_game():
